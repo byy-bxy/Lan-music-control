@@ -1,0 +1,2 @@
+# Lan-music-control
+一个基于局域网的跨端工具。通过Android手机隔空控制Windows电脑端的音乐打开或关闭，解决距离电脑远时不方便切歌的痛点
